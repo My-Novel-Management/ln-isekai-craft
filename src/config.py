@@ -8,6 +8,7 @@ ASSET = {
         "PERSONS": (
             # (tag / name / full / age (birth) / job / call / info)
             ('taro', '太郎', '', 17,(1,1), 'male', '学生'),
+            ("kosuke", "航輔", "耶麻本,航輔", 20,(1,1), "male", "大学生（Vチューバー）", "me:オレ"),
             ),
         "STAGES": (
             # (tag / name / parent / (geometry) / info)
